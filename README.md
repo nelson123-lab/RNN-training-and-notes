@@ -4,3 +4,4 @@
 - Feedback loop mechanism 
 ## RNN training
 chjn
+chjj
