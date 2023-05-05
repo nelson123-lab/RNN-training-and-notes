@@ -3,3 +3,4 @@
 ## RNN forward pass
 - Feedback loop mechanism 
 ## RNN training
+chjn
